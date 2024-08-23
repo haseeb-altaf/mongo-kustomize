@@ -1,0 +1,5 @@
+resources:
+  - mongodb-deployment.yaml
+  - mongo-express-deployment.yaml
+  - mongodb-service.yaml
+  - mongo-express-service.yaml
